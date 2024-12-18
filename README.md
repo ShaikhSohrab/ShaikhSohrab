@@ -17,12 +17,11 @@ I'm **Sohrab Shaikh**, an ISTQB-certified **QA Automation Engineer** with over *
 
 ### 🏆 Certifications
 - **ISTQB Certified Tester**
-- **Scrum Certification**
 
 ### 📫 Let's Connect
-- **GitHub:** [ShaikhSohrab](https://github.com/ShaikhSohrab)
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/qa-sohrab-shaikh)
-- **Email:** [Your Email](sohrabofficial97@gmail.com)
+- **GitHub:** (https://github.com/ShaikhSohrab)
+- **LinkedIn:** (https://linkedin.com/in/qa-sohrab-shaikh)
+- **Email:** (sohrabofficial97@gmail.com)
 
 ### ⚡ Fun Fact
 Testing isn’t just my profession; it’s my superpower! 🚀
