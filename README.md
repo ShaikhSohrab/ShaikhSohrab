@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Sohrab Shaikh**, an ISTQB-certified **QA Automation Engineer** with over **5 years of experience** in ensuring high-quality software delivery across diverse domains, including **FinTech** and **e-commerce**.
+I'm **Sohrab Shaikh**, an ISTQB-certified **QA Automation Engineer** with over **5 years of experience** in ensuring high-quality software delivery across diverse domains, including **FinTech**, **Banking**, **F&B** and **e-commerce**.
 
 ### 🔧 Skills & Expertise
 - **Automation Testing:** Proficient in tools like **Selenium**, **Appium**, **Playwright**, and **Postman**.
